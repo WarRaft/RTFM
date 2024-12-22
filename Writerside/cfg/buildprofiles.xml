@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <noindex-content>false</noindex-content>
+        <primary-color>ruby</primary-color>
+        <color-preset>contrast</color-preset>
+
+    </variables>
+    <build-profile instance="JASS">
+
+    </build-profile>
+    <build-profile instance="AngelScript">
+
+    </build-profile>
+    <build-profile instance="UjAPI">
+
+    </build-profile>
+
+</buildprofiles>
